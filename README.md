@@ -4,6 +4,16 @@ ERP web qui suit le cycle complet des marchés publics d'un fournisseur et impor
 
 > Projet d'équipe chez SINAL (Algérie) — **Fayçal Gheroufella, contributeur principal**. Le code appartient à l'entreprise et reste privé ; démonstration possible en entretien.
 
+## Captures
+
+*Prises sur une copie de démonstration remplie de données fictives : aucune donnée de l'entreprise n'y apparaît.*
+
+![Carte 3D du stock](captures/ds-stock-3d.jpg)
+
+| Tableau de bord des marchés | Appels d'offres |
+| --- | --- |
+| ![Tableau de bord des marchés](captures/ds-tableau-de-bord.jpg) | ![Appels d'offres](captures/ds-appels-offres.jpg) |
+
 ## Fonctionnalités
 
 - **Appels d'offres** : clients et organismes, études de faisabilité, pré-soumission et soumission, vue à 360° de chaque marché
